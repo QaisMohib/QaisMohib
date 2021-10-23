@@ -8,6 +8,15 @@
 I am a student of Govt. High School Punjani. I am studying in class 10th. I got 374/500 Marks in 8th Grade.
 
 ## Hobbies
-- 
+- playing and watching cricket
+- agriculture and farming
+- surfing  on internet 
 ## Skills
-- 
+- MIT SCRATCH/BYOB
+- HTML
+- PYTHON
+- CSS
+- JS
+- BOOTSTRAP
+- WORDPRESS
+
